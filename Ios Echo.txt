@@ -1,0 +1,46 @@
+## Understanding ios EcoSystem
+
+## iOS Ecosystem
+
+One of the most appealing aspects of the iOS ecosystem is its simplicity. The list of devices capable of running iOS is surprisingly short when compared with Android or Windows Phone. This means that testing iOS applications is much less cumbersome compared with other platforms.
+
+As stated earlier, Android has surpassed iOS in terms of market share, but this is only part of the story. The iOS platform accounts for more than 50% of web usage on mobile devices.
+
+## What is Xcode?
+
+XCode is an integrated development environment developed to work on Mac operating systems.
+
+Xcode is an application that developers use to build apps for Apple’s various platforms such as iPhone, iPad, Macs, AppleTV and Apple Watch.
+
+Xcode provides an integrated workflow for Apple Developer Program members to prepare and submit apps to the App Store.
+
+## Basic Requirements
+
+	1) A Mac with macOS 11
+	2) Minimum requirement is 4GB RAM but recommended is over 8 GB.
+	3) A minimum of 8GB of free space. Xcode requires a lot of storage space.
+	4) A MacBook, iMac, or Mac mini (2013-2015)
+
+## Advantages
+
+1) Design of the UI creator is simple and user-friendly.
+2) Provides developers with an opportunity to learn 3) profiling and heap analysis.
+4) Simulator in Xcode allows easy testing of the app
+5) The customer base is wide on the App store and    customers are ready to pay for apps.
+
+## Disadvantages
+
+1) Objective C Language is outdated for programming
+2) Working on multiple Windows is difficult as there    is no support for a tabbed environment.
+3) The process of transferring an app to a device is     not easy.
+4) It is supported only on Apple OS.
+5) It is time-consuming to get approval from the App    store.
+6) Limited information is available on the Internet    for solving problems due to Apple NDA on Xcode    development earlier.
+
+## How to Download and Install Xcode
+
+	@refer this link 
+	https://learnappmaking.com/how-to-download-	install-update-xcode/
+
+
+

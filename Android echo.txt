@@ -1,0 +1,41 @@
+## Understanding Android Studio EcoSystem
+
+## Android EcoSystem
+
+Android ecosystem this translates to inter-dependence between users, developers, and equipment makers. 
+
+One man’s trash is another man’s treasure”. The high price tag on Apple products makes a new market for cheaper Android phones and hence the scope of ‘Android Ecosystem’. Most students in India use Android devices and hence they need to find out a way and use all their devices together.
+
+## How to use Android Ecosystem
+
+Most laptops we use are Windows, hence it is not the finest pair with an Android phone.There are a lot of 3rd party apps that will help you get the most of your present devices. One example of such a web app is Snap drop. I personally like this app a lot as it not only works with all your devices irrespective of platform, but it also works in situations where you have done a cross-platform data transfer. So now, you can take a screenshot of your timetable from the LPU Touch app and transfer the same to your laptop without any cables. There are a lot more apps that could change your life for good if you are a student. One such app is Your Phone app which creates a wireless bridge between your windows laptop and your android phone, which, apart from texting from your laptop, offers the feature to even make phone calls directly from your laptop.
+
+## Android Studio
+
+Android Studio is the official IDE (Integrated Development Environment) for Android app development and it is based on JetBrains’ IntelliJ IDEA software. Android Studio provides many excellent features that enhance productivity when building Android apps, such as:
+	
+	1.A blended environment where one can develop for all Android devices
+	2.Apply Changes to push code and resource changes to the running app without restarting the app
+	3.A flexible Gradle-based build system
+	4.A fast and feature-rich emulator
+	5.GitHub and Code template integration to assist you to develop common app features and import sample code
+	6.Extensive testing tools and frameworks
+
+## System Requirements
+	1) Microsoft Windows 7/8/10 (32-bit or 64-bit)	
+	2) 4 GB RAM minimum, 8 GB RAM recommended (plus 1 GB for the Android Emulator) 
+	3) 2 GB of available disk space minimum, 4 GB recommended (500 MB for IDE plus 1.5 GB for Android SDK and emulator               system image)
+	4) 1280 x 800 minimum screen resolution
+
+	@To download Android Studio using this link
+	https://developer.android.com/studio/
+
+## Installation
+	@To refer using this link
+	https://www.geeksforgeeks.org/guide-to-install-and-set-up-android-studio/
+
+## Create an Android project
+	@To refer using this link
+	https://developer.android.com/training/basics/firstapp/creating-project
+
+

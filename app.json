@@ -1,0 +1,12 @@
+{
+  "name": "venkatesh",
+  "displayName": "venkatesh",
+  "expo": {
+    "name": "venkatesh",
+    "slug": "venkatesh",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
