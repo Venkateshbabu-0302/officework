@@ -1,4 +1,5 @@
 "# officework" 
 
-![Code](https://user-images.githubusercontent.com/84503089/119107198-a0973400-ba3c-11eb-868b-1a2e4b088341.png)
-![output](https://user-images.githubusercontent.com/84503089/119107202-a1c86100-ba3c-11eb-8989-c83d36fe9447.png)
+![Screenshot_20210607-144359](https://user-images.githubusercontent.com/84503089/120993016-c7759a00-c7a0-11eb-8b49-22e7e97b24f2.png)
+![Screenshot_20210607-144404](https://user-images.githubusercontent.com/84503089/120993020-c8a6c700-c7a0-11eb-86a7-652cdbf10755.png)
+
